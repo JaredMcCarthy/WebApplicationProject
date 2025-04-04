@@ -1,4 +1,4 @@
-# Escala
+# Origen
 
 # 🚀 Proyecto Educativo Web + App
 
