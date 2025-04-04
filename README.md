@@ -1,4 +1,4 @@
-# WebApplicationProject
+# Escala
 
 # 🚀 Proyecto Educativo Web + App
 
